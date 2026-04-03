@@ -7,7 +7,7 @@ from typing import Final
 # 3. Oscar Quispe Ayma - 25001248@Scontinental.edu.pe
 # 4. Mike Nick Morales Apesteguia (70177644@continental.edu.pe)
 # 5. Jeyson Gustavo Mayhualla Loayza (76598227@continental.edu.pe)
-git add conversor_moneda.py
+
 TASA_CAMBIO_USD: Final[float] = 3.75
 
 class CurrencyConverter:
