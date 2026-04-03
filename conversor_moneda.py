@@ -2,7 +2,7 @@ import sys
 from typing import Final
 
 # INTEGRANTES DEL EQUIPO:
-# 1. Harol Antony Porras Lume (Líder)
+# 1. Harol Antony Porras Lume 
 # 2. Arny Rúben Saravia Chavez - 74355027@continental.edu.pe
 # 3. Oscar Quispe Ayma - 25001248@Scontinental.edu.pe
 # 4. Mike Nick Morales Apesteguia (70177644@continental.edu.pe)
