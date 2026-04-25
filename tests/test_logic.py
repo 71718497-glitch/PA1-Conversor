@@ -4,7 +4,7 @@ import unittest
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
 
-from conversor_moneda import realizar_conversion
+from src.conversor_moneda import realizar_conversion
 
 class TestConversor(unittest.TestCase):
 
