@@ -1,0 +1,10 @@
+# Archivos de entorno y temporales
+venv/
+__pycache__/
+.pytest_cache/
+
+# Archivos de configuración y bases de datos
+.vscode/
+settings.json
+*.db
+*.exe
