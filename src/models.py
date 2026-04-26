@@ -2,9 +2,10 @@ from sqlalchemy import Column, Integer, Float, DateTime
 from database import Base
 import datetime
 
+
 class Historial(Base):
-    __tablename__ = 'historial_conversiones'
-    
+    __tablename__ = "historial_conversiones"
+
     id = Column(Integer, primary_key=True, index=True)
     monto_origen = Column(Float, nullable=False)
     monto_resultado = Column(Float, nullable=False)
