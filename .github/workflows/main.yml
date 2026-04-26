@@ -17,4 +17,8 @@ jobs:
       - name: Run tests
         run: |
           export PYTHONPATH=$PYTHONPATH:.
+<<<<<<< HEAD
           pytest
+=======
+          pytest
+>>>>>>> 09a1e9d67d7c67144eaf6d42fb74df47f1c0abc3
